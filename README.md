@@ -40,11 +40,11 @@
 <br><br>
 - 5-way 1-shot
 <br>
-<img src="https://user-images.githubusercontent.com/62555935/121768383-e86f2e00-cb98-11eb-9a15-ba5c017b1677.PNG", width="400"/>
+<img src="https://user-images.githubusercontent.com/62555935/121768383-e86f2e00-cb98-11eb-9a15-ba5c017b1677.PNG", width="800"/>
 <br><br>
 - 5-way 2-shot
 <br>
-<img src="https://user-images.githubusercontent.com/62555935/121769038-55d08e00-cb9c-11eb-9343-ed9ba82539f5.PNG", width="400"/>
+<img src="https://user-images.githubusercontent.com/62555935/121769038-55d08e00-cb9c-11eb-9343-ed9ba82539f5.PNG", width="800"/>
 </p>
 
 ## Usage
