@@ -29,7 +29,8 @@
 
 - 동물 실루엣 이미지 데이터 셋을 사용
 - MAML 알고리즘을 사용하여 메타러닝 모델 구현
-- k-way n-shot의 퓨샷 러닝
+- n-way k-shot의 퓨샷 러닝
+- Dataset (https://sites.google.com/site/xiangbai/animaldataset)
 
 ## Screenshots
 
