@@ -35,10 +35,15 @@
 
 <p align="center">
 - 데이터 셋
+<br>
 <img src="https://user-images.githubusercontent.com/62555935/121768339-b8278f80-cb98-11eb-9845-61390bff6006.PNG", width="400"/>
+<br><br>
 - 5-way 1-shot
+<br>
 <img src="https://user-images.githubusercontent.com/62555935/121768383-e86f2e00-cb98-11eb-9a15-ba5c017b1677.PNG", width="400"/>
+<br><br>
 - 5-way 2-shot
+<br>
 <img src="https://user-images.githubusercontent.com/62555935/121769038-55d08e00-cb9c-11eb-9343-ed9ba82539f5.PNG", width="400"/>
 </p>
 
